@@ -1,8 +1,8 @@
 ![](wednesday-quotes_header.png)
 
-# Wednesday quotes API
+# Wednesday Quotes API
 
-A simple API to retrieve some quotes of Wednesday!
+A simple API to retrieve some quotes from Wednesday!
 
 :globe_with_meridians: Website: https://jaganganesh.tumblr.com
 
@@ -54,7 +54,7 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
 ## Contributing
 
-If you want to add some quotes, just add them in `quotes.js` file and do a pull request !
+If you want to add some quotes, add them in the `quotes.js` file and do a pull request!
 
 ## Credits
 
