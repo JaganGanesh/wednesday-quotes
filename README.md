@@ -4,7 +4,7 @@
 
 A simple API to retrieve some quotes from Wednesday!
 
-:globe_with_meridians: Website: https://jaganganesh.tumblr.com
+:globe_with_meridians: Website: [https://github.com/jaganganesh](https://github.com/JaganGanesh)
 
 ![Wednesday quotes API](ezgif-5-8c1ed61b34.gif)
 
